@@ -9,3 +9,4 @@ Continua con el inicio de sesion
 publicando ideas
 
 Subir Archivos
+Eliminar Archivos
