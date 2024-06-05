@@ -3,3 +3,18 @@ Creacion del header que incluye menu y logo
 continuacion de la version 1 del menu
 
 continua con el registro
+
+Continua con el inicio de sesion
+
+publicando ideas
+
+Subir Archivos
+Eliminar Archivos
+Editar perfil
+Elegir plan
+Publicar comentario
+DescargarArchivo
+EliminarComentario
+EliminarPublicacion
+
+version 2.0.1
