@@ -5,3 +5,5 @@ continuacion de la version 1 del menu
 continua con el registro
 
 Continua con el inicio de sesion
+
+publicando ideas
