@@ -11,3 +11,7 @@ publicando ideas
 Subir Archivos
 Eliminar Archivos
 Editar perfil
+Elegir plan
+Publicar comentario
+DescargarArchivo
+EliminarComentario
