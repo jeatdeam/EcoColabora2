@@ -3,3 +3,5 @@ Creacion del header que incluye menu y logo
 continuacion de la version 1 del menu
 
 continua con el registro
+
+Continua con el inicio de sesion
